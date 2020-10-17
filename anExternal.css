@@ -1,0 +1,38 @@
+body {
+    background-color: lightsteelblue; 
+}
+h1 {
+    color: olive;
+    font-size: 30px;
+}
+p {
+    border-style: dotted;
+    color: olivedrab;
+}
+img {
+    width: 750px;
+    height: 500px;
+    margin: 20px;
+    border-radius: 5em / 5em;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+div.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h2 {
+    color: darkolivegreen;
+}
+ol {
+    font-size: 20px;
+    color: olivedrab;
+}
+li {
+    float: right;
+}
